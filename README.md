@@ -17,6 +17,6 @@ Desenvolvedor Full Stack com experiência em TypeScript, React, Node.js e outras
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ## Links
-- [LinkedIn]([link_do_linkedin](https://www.linkedin.com/in/victor-eduardo-alves-munhoz-97a446307/))
+- [LinkedIn](https://www.linkedin.com/in/victor-eduardo-alves-munhoz-97a446307/)
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Vitinhomunhoz&show_icons=true&theme=radical)
